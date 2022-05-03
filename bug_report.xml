@@ -1,10 +1,5 @@
-<Skills>
-  <skill>GitBash</skill>
-  <skill>Postman</skill>
-  <skill>DBeaver</skill>
-  <skill>CharlesProxy</skill>
-  <skill>Fiddler</skill>
-  <skill>JavaScript</skill>
-  <skill>Pyton</skill>
-  <skill>SQL</skill>
-</Skills>
+<Bug_report>
+  <step1>GitHub.com</step1>
+  <step2>Repo_XML</step2>
+  <step3>bug_report.xml</step3>
+</Bug_report>
